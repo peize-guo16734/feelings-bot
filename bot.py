@@ -27,7 +27,6 @@ while True:
       feelings_list.append("fear")
       encouragement_list.append("don't be afraid, just keep on going")
       counter += 1
-
   if counter == 0:
     
       output = "Sorry I don't really understand. Please use different words?"
